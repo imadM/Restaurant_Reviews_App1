@@ -1,7 +1,3 @@
-# Mobile Web Specialist Certification Course
----
-#### _Three Stage Course Material Project - Restaurant Reviews_
-
 # FEND- Restaurant Reviews: Stage 1
 
 This is project 6 (*Restaurant Reviews*) from Udacity's  Front-End Nanodegree  program.
