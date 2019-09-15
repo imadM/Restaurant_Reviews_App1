@@ -1,4 +1,5 @@
 # FEND- Restaurant Reviews: Stage 1
+* Live link: http://htmlpreview.github.io/?https://github.com/imadM/Restaurant_Reviews_App1
 
 This is project 6 (*Restaurant Reviews*) from Udacity's  Front-End Nanodegree  program.
 Find starter code and more information [HERE
